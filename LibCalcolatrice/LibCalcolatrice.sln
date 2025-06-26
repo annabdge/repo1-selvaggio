@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibCalcolatrice", "LibCalcolatrice\LibCalcolatrice.csproj", "{A3C2D7E9-26CF-4BB1-8712-F29A6558466E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectCalcolatrice", "TestProjectCalcolatrice\TestProjectCalcolatrice.csproj", "{27A572AA-477D-4237-AE78-0F819EEDA699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C2D7E9-26CF-4BB1-8712-F29A6558466E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C2D7E9-26CF-4BB1-8712-F29A6558466E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C2D7E9-26CF-4BB1-8712-F29A6558466E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C2D7E9-26CF-4BB1-8712-F29A6558466E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A572AA-477D-4237-AE78-0F819EEDA699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A572AA-477D-4237-AE78-0F819EEDA699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A572AA-477D-4237-AE78-0F819EEDA699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A572AA-477D-4237-AE78-0F819EEDA699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0D7B266-5A9F-4B95-B032-6B7852CBC8B8}
+	EndGlobalSection
+EndGlobal
